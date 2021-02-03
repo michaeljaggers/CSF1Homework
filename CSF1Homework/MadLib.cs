@@ -11,6 +11,7 @@ namespace CSF1Homework
         static void Main(string[] args)
         {
             Console.Title = "CSF1 Mad Lib";
+
             Console.WriteLine("Homework: Mad Lib");
             Console.WriteLine("\nPlease enter some information below to do this Mad Lib.  Unless otherwise specified, verbs should be in standard present tense (i.e. 'swim' or 'run').  Adverbs are words modifying verbs (like 'soon', or often ending in 'ly', like 'swiftly').  Adjectives are words that describe nouns (like 'green' or 'descriptive').");
 
