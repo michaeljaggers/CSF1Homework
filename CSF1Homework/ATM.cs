@@ -52,6 +52,7 @@ namespace CSF1Homework
                                 string option = Console.ReadLine().ToUpper();
                                 Console.Clear();
 
+                                //menu options
                                 switch (option)
                                 {
                                     case "D":
