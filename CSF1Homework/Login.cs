@@ -47,7 +47,7 @@ namespace CSF1Homework
                             if (passAttempts > 0)
                             {
                                 Console.WriteLine("Incorrect password. Access denied.\n" +
-                                                    $"You have {passAttempts} attempt{(passAttempts == 1 ? "" : "s")} remaining.\n");
+                                                  $"You have {passAttempts} attempt{(passAttempts == 1 ? "" : "s")} remaining.\n");
                             }
                             else
                             {
