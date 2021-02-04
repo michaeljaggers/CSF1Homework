@@ -10,7 +10,7 @@ namespace CSF1Homework
     {
         static void Main(string[] args)
         {
-            Console.Title = "CSF1Homework Login";
+            Console.Title = "CSF1 Login";
             bool runProgram;
             int userAttempts = 3;
             int passAttempts = 3;
