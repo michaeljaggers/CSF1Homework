@@ -38,11 +38,10 @@ namespace CSF1Homework
 
                         if (password == CORRECT_PASSWORD)
                         {
-                            bool continueMenu;
+                            bool continueMenu = false;
                             do
                             {
                                 //main menu
-                                continueMenu = false;
                                 Console.WriteLine("# Main Menu #\n" +
                                                   "Please choose your option:\n\n" +
                                                   "- (D) Deposit\n" +
